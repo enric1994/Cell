@@ -19,13 +19,18 @@ Each time a cell divides, there is a possibility that a mutation appear, which w
 
 To simulate external factors, the amount of food that is generated every second varies sinusoidally, a comlete cycle takes about 10 minutes. Only the adapted cells will survive.
 
+#VIDEO
+
+[![ScreenShot](https://raw.github.com/enric1994/Cell/master/cells.png)](https://www.youtube.com/watch?v=ixRlhI6WiJc&feature=youtu.be)
+
 
 "As mis-copyings were made and propagated, the primeval soup
 became filled by a population not of identical replicas, but of several
 varieties of replicating molecules, all 'descended' from the same
 ancestor. Would some varieties have been more numerous than
 others? Almost certainly yes." 
- Richars Dawkins. (1976). The Selfish Gene. New York: Oxford University Press.
+
+Richars Dawkins. (1976). The Selfish Gene. New York: Oxford University Press.
 
 Use the mouse to interact and create food and cells.
 
