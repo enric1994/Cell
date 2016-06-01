@@ -43,5 +43,4 @@ void draw() {
   if((millis()%int(3+abs(4*sin(0.00001*millis()))))==0)food.add( new Food(new PVector(random(1200), random(650)), color(0))); //
 //  text(int(3+abs(4*sin(0.00001*millis()))),10,10);
  // text(millis()/1000,10,20);
- saveFrame("output-####.tga");
 }
