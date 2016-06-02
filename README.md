@@ -4,6 +4,7 @@
 accident."
 
 
+
 In this sketch, I want to simulate the beginning of the life. The rules are as follows:
 
 
