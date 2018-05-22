@@ -19,7 +19,7 @@ To simulate external factors, the amount of food that is generated every second 
 
 Use the mouse to interact and create food and cells.
 
-# Demo
+# Demo video
 
 [![ScreenShot](https://raw.github.com/enric1994/Cell/master/cells.png)](https://www.youtube.com/watch?v=ixRlhI6WiJc&feature=youtu.be)
 
