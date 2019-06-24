@@ -1,5 +1,3 @@
-# Evolution simulation using Processing
-
 **"At some point a particularly remarkable molecule was formed by
 accident."**
 
@@ -17,11 +15,8 @@ Each time a cell divides, there is a possibility that a mutation appear, which w
 
 To simulate external factors, the amount of food that is generated every second varies sinusoidally, a complete cycle takes about 10 minutes. Only the adapted cells will survive.
 
-Use the mouse to interact and create food and cells.
 
-# Demo video
-
-[![ScreenShot](https://raw.github.com/enric1994/Cell/master/cells.png)](https://www.youtube.com/watch?v=ixRlhI6WiJc&feature=youtu.be)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ixRlhI6WiJc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 "As mis-copyings were made and propagated, the primeval soup
